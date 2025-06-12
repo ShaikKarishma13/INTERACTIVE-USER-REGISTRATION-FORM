@@ -55,5 +55,5 @@ This user registration form is a great starting point for web development beginn
 ---
 
 ##Output:
-
+![Image](https://github.com/user-attachments/assets/9cb9d93a-5bfd-4bc9-9dd5-c474ca0c1db3)
 
